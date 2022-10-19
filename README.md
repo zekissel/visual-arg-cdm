@@ -6,7 +6,7 @@
 <h3>Full Draft, Oct 19</h3>
 <p>For my project, I am arguing that people are looking at screens for an unhealthy amount of time. It's easy to be constantly in front of a screen in today's society, where the expectation is that students, teachers, and workers alike will rely on their computers to complete their daily tasks. As brilliant as computers are, it can be unhealthy to extend our use such that we deprive ourselves of physical activity, fresh air, and sunlight. We can't stop using computers, but we can start going outside. </p>
 
-<p>For my full draft, I've included my updated GIMP project file, as well as my 'full-project.gif' file. My initial draft was a static picture, but since then I've decided to turn my project into an animation. It was suggested in class that I put my initial visual on a computer screen. I thought this was a good idea, but could be easier to percieve with the use of an animation. So, I used my first picture as a blueprint for a few more static images. Then, I used the 'Filter' tab in GIMP to cycle through various layers and play them in an animation.</p>
+<p>For my full draft, I've included my updated GIMP project file, as well as my 'full-project.gif' file (and images used to create GIF). My initial draft was a static picture, but since then I've decided to turn my project into an animation. It was suggested in class that I put my initial visual on a computer screen. I thought that this was a good idea, and reasoned that the best way to convey this would be with an animation. So, I used my first picture as a blueprint for a few more static images. Then, I used the 'Filter' tab in GIMP to cycle through various layers and play them in an animation.</p>
 
 <img src="full-project.gif">
 
