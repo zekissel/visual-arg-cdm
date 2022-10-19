@@ -6,4 +6,6 @@ Visual Argument for ENGCMP0610 (Composing Digital Media)
 
 <p>For my initial draft I've included my GIMP project file as well as the exported JPG. I ask the question "Have you gone outside today?" and include visuals within the word 'outside'. The red eye and horribly postured person are meant to remind the reader why the answer to the question is important. So far, I have only included my own drawing, but in the future I plan to incorporate real photos, whether they be taken from my phone or a public source.</p>
 
+<img src="img/go-outside-full1.jpg">
+
 <hr>
